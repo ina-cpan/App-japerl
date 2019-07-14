@@ -1,0 +1,12 @@
+lib/App/japerl.pm
+bin/japerl.bat
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+pmake.bat
+t/001_test.t
+t/2001_podtest.t
